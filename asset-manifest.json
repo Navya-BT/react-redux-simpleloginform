@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-redux-simpleloginform/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/react-redux-simpleloginform/static/js/main.b24b63e5.chunk.js",
+    "main.js.map": "/react-redux-simpleloginform/static/js/main.b24b63e5.chunk.js.map",
+    "runtime-main.js": "/react-redux-simpleloginform/static/js/runtime-main.ce03a1da.js",
+    "runtime-main.js.map": "/react-redux-simpleloginform/static/js/runtime-main.ce03a1da.js.map",
+    "static/js/2.6ba1cd53.chunk.js": "/react-redux-simpleloginform/static/js/2.6ba1cd53.chunk.js",
+    "static/js/2.6ba1cd53.chunk.js.map": "/react-redux-simpleloginform/static/js/2.6ba1cd53.chunk.js.map",
+    "static/js/3.6a97a71e.chunk.js": "/react-redux-simpleloginform/static/js/3.6a97a71e.chunk.js",
+    "static/js/3.6a97a71e.chunk.js.map": "/react-redux-simpleloginform/static/js/3.6a97a71e.chunk.js.map",
+    "index.html": "/react-redux-simpleloginform/index.html",
+    "static/css/main.d87cbb72.chunk.css.map": "/react-redux-simpleloginform/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.6ba1cd53.chunk.js.LICENSE.txt": "/react-redux-simpleloginform/static/js/2.6ba1cd53.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce03a1da.js",
+    "static/js/2.6ba1cd53.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.b24b63e5.chunk.js"
+  ]
+}
